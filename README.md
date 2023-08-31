@@ -35,6 +35,9 @@ Sales Forecasting
 User Interactivity and Filters
  To enhance the usability of the dashboard, incorporate interactive elements and filtering options. Users should be able to filter data based on time periods, products, regions, and other relevant dimensions. This interactivity empowers users to customize their view and draw insights based on their specific needs.
 
+ ![image](https://github.com/Majeti-Sravanya/Sales-Forecasting-in-Power-Bi/assets/77283553/a790bbf7-9240-43ba-a552-297915513a2d)
+
+
 Conclusion
 
 In this report, we've explored the process of creating a sales dashboard and implementing sales forecasting using Power BI. A well-designed dashboard provides valuable insights into sales performance, enabling businesses to make informed decisions. Additionally, accurate sales forecasting enhances strategic planning and resource allocation. By effectively utilizing Power BI's capabilities, organizations can gain a competitive edge by leveraging data-driven insights.
