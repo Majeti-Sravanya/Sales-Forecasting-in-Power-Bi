@@ -30,7 +30,14 @@ Sales Forecasting
 •	Predictive Analytics: Implement predictive models, such as linear regression or ARIMA, to forecast future sales. These models consider various influencing factors to provide accurate predictions.
 •	Visualizing Forecasts: Display forecasted sales alongside historical data in line charts or other suitable visualizations. This allows stakeholders to compare actual sales with predictions.
 
+![image](https://github.com/Majeti-Sravanya/Sales-Forecasting-in-Power-Bi/assets/77283553/caed8c34-a9eb-4f51-a64a-9fe3fe2040a4)
+
 User Interactivity and Filters
  To enhance the usability of the dashboard, incorporate interactive elements and filtering options. Users should be able to filter data based on time periods, products, regions, and other relevant dimensions. This interactivity empowers users to customize their view and draw insights based on their specific needs.
+
+Conclusion
+
+In this report, we've explored the process of creating a sales dashboard and implementing sales forecasting using Power BI. A well-designed dashboard provides valuable insights into sales performance, enabling businesses to make informed decisions. Additionally, accurate sales forecasting enhances strategic planning and resource allocation. By effectively utilizing Power BI's capabilities, organizations can gain a competitive edge by leveraging data-driven insights.
+
 
 
